@@ -1,6 +1,6 @@
 package com.bookApplication.database;
 
-import com.bookApplication.Book;
+import com.bookApplication.domain.Book;
 
 import java.util.List;
 

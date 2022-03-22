@@ -1,6 +1,6 @@
 package com.bookApplication.service;
 
-import com.bookApplication.Book;
+import com.bookApplication.domain.Book;
 import com.bookApplication.database.Database;
 
 public class AddBookService {

@@ -1,4 +1,4 @@
-package com.bookApplication;
+package com.bookApplication.domain;
 
 import java.util.Objects;
 
